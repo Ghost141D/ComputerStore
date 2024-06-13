@@ -6,3 +6,4 @@
 # 数据库：MySQL
 # 浏览器：Microsoft Edge
 # 服务器架构：Spring Boot 2.4.7 + MyBatis 2.1.4 + AJAX
+软件测试课程设计所用测试项目
