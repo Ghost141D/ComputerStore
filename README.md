@@ -6,5 +6,3 @@
 # 数据库：MySQL
 # 浏览器：Microsoft Edge
 # 服务器架构：Spring Boot 2.4.7 + MyBatis 2.1.4 + AJAX
-# 硬件配置：16G内存、199G磁盘空间、4核处理器
-# 网络配置：支持TCP/IP协议，具有稳定的网络连接
